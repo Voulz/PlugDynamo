@@ -1,10 +1,9 @@
 # PlugDynamo
 Connect the [Dynamo plugin](https://github.com/DynamoDS/Dynamo) with a .Net application.
-
 I am still looking for the right way to do it but here are 3 ways I was able to make it work.
 
-![Screenshot](Plug Dynamo.jpg)
-
+![Screenshot](Plug%20Dynamo.jpg)
+![Screenshot](Plug%20Dynamo%202.jpg)
 
 Option 1: Local References
 -------------
